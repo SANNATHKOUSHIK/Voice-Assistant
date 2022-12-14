@@ -1,0 +1,307 @@
+1.screen shot
+2.screen recorder
+3.wikipedia
+4.music
+5.google search
+6.youtube search
+7.time
+8.date
+9.voice record
+10.photo
+11.send email
+12.amazon search
+13.flipkart search
+14.myntra search
+15.shutdown
+16.quit == exit
+17.restart
+18.logoff
+19.cmd
+20.shows deleted files
+21.opens word
+22.powerpoint
+23.excel
+24.notepad
+25.taskmanager
+26.temp files
+27.control panel
+28.firewall
+29.mouse settings
+30.fonts
+31.keyboard settings
+32.devices
+33.network connections
+34.file explorer settings
+35.administrative tools
+36.installed programs
+37.device manager
+38.display settings
+39.internet settings
+40.gamepad controls
+41.sound settings
+42.power optins
+43.system properties
+44.security settings
+45.date time settings
+46.access center
+47.modem properties
+48.backup and restore centre
+49.color managment options
+50.credential manager
+51.file history
+52.language settings
+53.network setup wizard
+54.offline files
+55.ODBC data source administrator
+56.personalization settings
+57.remote app and desktop connections
+58.recovery options
+59.task scheduler
+60.speech recognition options
+61.storage spaces
+62.sync center
+63.system configuration
+64.taskbar
+65.speech properties
+66.user accounts
+67.troubleshoot options
+68.windows update 
+69.opens CD-Rom
+70.calculator
+71.synonyms
+72.antynoms
+73.settings
+74.cortana settings
+75.pen and windows ink settings
+76.usb settings
+77.autoplay settings
+78.typing options
+79.apps and features
+80.opens chrome
+81.file explorer
+82.run prompt
+83.minimizes all windows
+84.mutes
+85.volume up
+86.volume down
+87.refistry editor
+88.local group policy editor
+89.bluetooth file transfer
+90.certificate manager
+91.character map
+92.disk check
+93.component services
+94.computer manager
+95.directx diagnostic tool
+96.disk cleanup
+97.disk managment
+98.partition manager
+99.event viewer
+100.file signature verification
+101.iexpress wizard
+102.local security policy
+103.performance monitor
+104.resource monitor
+105.screen keyboard
+106.private character editor
+107.resultant set os policy
+108.shared folders
+109.SQL server
+110.microsoft magnifier
+111.windows managment
+112.paint
+113.malicious software removal tool
+114.windows address book import utility
+115.remote desktop
+116.remote access phonebook
+117.alarm (sorry this function is not working) 
+118.timer (sorry this function is not working) 
+119.stopwatch
+120.ms-store
+121.paint 3d
+122.synonyms
+123.antonyms
+124.cortana
+125.anydesk
+126.outlook
+127.news
+128.pronounce a word
+129.general settings
+130.location settings
+131.camera settings
+132.microphone settings
+133.phone settings
+134.document settings
+135.pictures
+136.videos
+137.file system settings
+138.automatic file download
+139.app diagnostics
+140.background apps
+141.other devices
+142.radios settings
+143.messaging stiings
+144.tasks
+145.mail settings
+146.call settings
+147.calander settings
+148.contacts
+149.account info
+150.notification settings
+151.activity history   
+152.feedback settings
+153.speechtyping settings
+154.windows insider program
+155.find my device
+156.windows activation
+157.reocvery settings
+158.ease of access display
+159.magnifier settings
+160.colour filters
+161.eye control
+162.closed captions
+163.high contrast
+164.game bar
+165.captures
+166.braodcasting settings
+167.game mode
+168.xbox networking settings
+169.your info
+170.email and app accounts settings
+171.sign in options
+172.access work settings
+173.family and other people
+174.sync your settings
+175.network status
+176.wifi
+177.documents folder
+178.this pc
+179.tabs
+180.powershell
+181.windows defender settings
+182.restart options
+183.update history
+184.backup settings
+185.startup apps
+186.offline maps
+187.video playback
+188.optional features
+189.groove (app) 
+190.maps (app)
+191.camera (app)
+192.Movies&TV (app)
+193.fb (app) 
+194.calander (app) 
+195.photos (app) 
+196.clock (app) 
+197.3D builder
+198.action centre
+199.available networks (available wifi connections) 
+200.cast screen or screen share
+201.drawboard pdf
+202.feedback hub 
+203.get help
+204.mail (app)
+205.messaging
+206.microsoft news
+207.microsoft solitaire collection
+208.microsoft White board
+209.Minecraft windows edition
+210.mixed reality camera
+211.mixes reality portal
+212.one note
+213.people
+214.3D viewer
+215.tips
+216.twitter (app) 
+217.windows mixed reality environments
+218.weather
+219.windows parental controls
+220.Xbox One smartglass
+221.s-capture
+222.narrator
+223.snippingtool
+224.remote assistance
+225.windows fax and scan
+226.windows media player
+227.problem steps recorder
+228.add device
+229.system restore
+230.driver verifier
+231.ISCSI initiator configuration tool
+232.language pack installer
+233.microsoft support diagnostic tool
+234.windows disc image burning tool
+235.add hardware wizard
+236.windows mobility centre
+237.windows picture acquisition wizard
+238.windows memory diagnostic schedule
+239.windows script host
+240.WMI tester
+241.digitizer calibration tool
+242.encrypting file wizard
+243.fax cover page editor
+244.presentation settings
+245.printer migration
+246.printer user interface
+247.trusted platform module
+248.DPAPI key migration wizard
+249.windows features
+250.authorization manager
+251.ip adress
+252.active directory federation services
+253.active directory rights management services
+254.adsi edit
+256.local computer certificates
+257.certification authority
+258.certification templetes
+259.Indexing services
+260.failover cluster manager
+261.network interface performance monitor
+261.https trafic performance monitor
+262.ipsec performance monitor
+263.isatap performance monitor
+264.dfs management
+265.dns manger
+266.active directory users and computers
+267.active directiory domains and trust
+268.active directory sites and services
+269.file server resource
+270.microsoft fax sevrice manager
+271.group policy mangement
+278.group policy management editor
+279.group policy starter gpo editor
+280.health registration authorithy
+281.microsoft identity management for unix
+282.internet information services manager
+283.inernet informative services manager 6.0
+284.rd licensing diagnoser
+285.nap client configuration
+286.services for network file system
+287.network policy server
+288.online responder
+289.enterprise pki
+290.remoteapp manager
+291.routing and remote access
+292.storage manager for sans
+293.remote desktop connection manager
+294.scan management
+295.server manager
+296.share and storage management
+297.storage explorer
+298.telephony
+299.remote desktop services manager
+300.remote desktop session host configuration
+301.rd gateway manager
+302.remote desktops
+303.hyper-v manager
+304.windows sever backup
+305.windows deployment services
+306.WINS
+307.windows system resource manager
+308.update services
+309.stickynotes
+310.facts
+311.jokes
+  
+
